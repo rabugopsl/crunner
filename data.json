@@ -1,0 +1,10 @@
+[
+  { "key":"", "value":"First test string", "wait":4 },
+  { "key":"", "value":"This is the second test string", "wait":0 },
+  { "key":"SSH Public Key", "value":"/home/rbustamanteg/.ssh/fedora_rsa.pub", "wait":0 },
+  { "key":"Platform", "value":"libvirt" },
+  { "key":"Libvirt Connection URI", "value":"qemu+tcp://192.168.122.1/system", "wait":10 },
+  { "key":"Base Domain", "value":"tt.testing" },
+  { "key":"Cluster Name", "value":"test1" },
+  { "key":"Pull Secret",  "value":"{\"auths\": {\"quay.io\": {\"auth\": \"aValidPullSecret\",\"email\": \"\"}}}" }
+]
